@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yerkofuentesj](https://github.com/yerkofuentesj)
 
-- 💬 Ask me about **HTML, CSS pure, JS and Bootrasp responsive.**
+- 💬 Ask me about **HTML, CSS pure, JS and Bootstrap responsive.**
 
 - 📫 How to reach me **build.a.code@gmail.com**
 
